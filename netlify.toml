@@ -1,0 +1,9 @@
+[build]
+ command= "env"
+ publish ="build"
+
+ functions=    "./functionsR" 
+
+
+ #  to go live rename file and toml t  "./functionsR"    #
+
